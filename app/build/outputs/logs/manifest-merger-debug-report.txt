@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\992bb388bff555a285cceb21e89e59d1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\db98d86d003a402add1852e71752a200\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9ee6fd3b0eb6b3a60074f633b6706fec\AndroidManifest.xml:2:1-11:12
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\ed59933532f5fbbdb67a122ac9f0ec32\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2a91c261de78b063973cbebcbb8a8e64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6a40b885ee2008b739086050b76500f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\83fd32816a92b1055c41990c91f2deef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\64a9e5ce2cccd1dcfa46513d7a31053a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\600ed4dbba616ed46e9ad1917e5affe2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\334446ed9063d2f1dc99b581dedd68e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\1804b1273741897d2011de92d35cc979\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cc92ddca8c5e6cac01c016d1b6ed251e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bcb451b309811577bc5c563c8e7f99fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e35270e7b432e8eb0a03129dd3e9988c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6429e6d7b15582599693cb151e8d4f8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\46487d4e95e493310f4554d80c3e4a07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0ae44d7596f3af28d85d7c4c6f854f32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f3bf3755c133a4ebc83c4093c23f4451\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fabb6c4ce93001caf4d32386791d994e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9159fda253de5a07f2feeff6083d754\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9264d97cb7444a49bb928e637abfc1a8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cdc8707667e15fc849c17d587f6fc238\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\732c487db8ef1edcee0369fb03feb2df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\570d56b4be563fce056d9d475e1e1670\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d86adfc2c6e120cf6890ed352ba6f348\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\bb3712b7907d3099bfe207ffdf73b06d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2acb6ec76e372b5e59a6376487df7056\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1c5802ec6a7ed9a7d6366f1d7af69062\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\08b17bc9cc4c3cd4d750970c0bc85cd8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4bd861f538351b05c355a2e6f3fd5b6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b7fa9ac8beab21e673bdd126db0df731\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fbe47d206f71f08f1f76fe6c9cec293\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:7:22-66
+application
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\992bb388bff555a285cceb21e89e59d1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\992bb388bff555a285cceb21e89e59d1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9ee6fd3b0eb6b3a60074f633b6706fec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9ee6fd3b0eb6b3a60074f633b6706fec\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9159fda253de5a07f2feeff6083d754\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9159fda253de5a07f2feeff6083d754\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9264d97cb7444a49bb928e637abfc1a8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9264d97cb7444a49bb928e637abfc1a8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9159fda253de5a07f2feeff6083d754\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.siker.labs.MainActivity
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.siker.labs.Lab2Activity
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:23:9-26:59
+	android:label
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:25:13-56
+	android:theme
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:24:13-41
+activity#com.siker.labs.lab2.Lab2ContentActivity
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:27:9-62
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:27:19-59
+activity#com.siker.labs.lab2.Lab2Present
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.siker.labs.Lab3Activity
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.siker.labs.Lab4Activity
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:30:19-47
+activity#com.siker.labs.Lab5Activity
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:31:19-47
+activity#com.siker.labs.Lab6Activity
+ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:32:9-59
+	android:name
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml:32:19-47
+uses-sdk
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\992bb388bff555a285cceb21e89e59d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\992bb388bff555a285cceb21e89e59d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\db98d86d003a402add1852e71752a200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\db98d86d003a402add1852e71752a200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9ee6fd3b0eb6b3a60074f633b6706fec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9ee6fd3b0eb6b3a60074f633b6706fec\AndroidManifest.xml:5:5-7:41
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\ed59933532f5fbbdb67a122ac9f0ec32\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:2.2.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\logger-2.2.0.aar\ed59933532f5fbbdb67a122ac9f0ec32\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2a91c261de78b063973cbebcbb8a8e64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2a91c261de78b063973cbebcbb8a8e64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6a40b885ee2008b739086050b76500f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\6a40b885ee2008b739086050b76500f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\83fd32816a92b1055c41990c91f2deef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\83fd32816a92b1055c41990c91f2deef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\64a9e5ce2cccd1dcfa46513d7a31053a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\64a9e5ce2cccd1dcfa46513d7a31053a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\600ed4dbba616ed46e9ad1917e5affe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\600ed4dbba616ed46e9ad1917e5affe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\334446ed9063d2f1dc99b581dedd68e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\334446ed9063d2f1dc99b581dedd68e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\1804b1273741897d2011de92d35cc979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\1804b1273741897d2011de92d35cc979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cc92ddca8c5e6cac01c016d1b6ed251e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cc92ddca8c5e6cac01c016d1b6ed251e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bcb451b309811577bc5c563c8e7f99fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\bcb451b309811577bc5c563c8e7f99fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e35270e7b432e8eb0a03129dd3e9988c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e35270e7b432e8eb0a03129dd3e9988c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6429e6d7b15582599693cb151e8d4f8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6429e6d7b15582599693cb151e8d4f8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\46487d4e95e493310f4554d80c3e4a07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\46487d4e95e493310f4554d80c3e4a07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0ae44d7596f3af28d85d7c4c6f854f32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0ae44d7596f3af28d85d7c4c6f854f32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f3bf3755c133a4ebc83c4093c23f4451\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f3bf3755c133a4ebc83c4093c23f4451\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fabb6c4ce93001caf4d32386791d994e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\fabb6c4ce93001caf4d32386791d994e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9159fda253de5a07f2feeff6083d754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a9159fda253de5a07f2feeff6083d754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9264d97cb7444a49bb928e637abfc1a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9264d97cb7444a49bb928e637abfc1a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cdc8707667e15fc849c17d587f6fc238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\cdc8707667e15fc849c17d587f6fc238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\732c487db8ef1edcee0369fb03feb2df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\732c487db8ef1edcee0369fb03feb2df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\570d56b4be563fce056d9d475e1e1670\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\570d56b4be563fce056d9d475e1e1670\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d86adfc2c6e120cf6890ed352ba6f348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d86adfc2c6e120cf6890ed352ba6f348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\bb3712b7907d3099bfe207ffdf73b06d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\bb3712b7907d3099bfe207ffdf73b06d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2acb6ec76e372b5e59a6376487df7056\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2acb6ec76e372b5e59a6376487df7056\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1c5802ec6a7ed9a7d6366f1d7af69062\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1c5802ec6a7ed9a7d6366f1d7af69062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\08b17bc9cc4c3cd4d750970c0bc85cd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\08b17bc9cc4c3cd4d750970c0bc85cd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4bd861f538351b05c355a2e6f3fd5b6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4bd861f538351b05c355a2e6f3fd5b6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b7fa9ac8beab21e673bdd126db0df731\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b7fa9ac8beab21e673bdd126db0df731\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fbe47d206f71f08f1f76fe6c9cec293\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\siker\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5fbe47d206f71f08f1f76fe6c9cec293\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\siker\LABS-master\app\src\main\AndroidManifest.xml
